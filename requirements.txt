@@ -1,0 +1,6 @@
+numpy
+opencv-python
+requests
+scikit-learn
+tensorflow
+joblib
